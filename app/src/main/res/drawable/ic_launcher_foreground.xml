@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- A timeline rail with one marked moment: the product in one glyph. -->
+    <path
+        android:fillColor="#FAF9F6"
+        android:pathData="M30,53 L78,53 L78,56 L30,56 Z" />
+    <path
+        android:fillColor="#A3441C"
+        android:pathData="M60,54.5 m-9,0 a9,9 0 1,0 18,0 a9,9 0 1,0 -18,0" />
+    <path
+        android:fillColor="#FAF9F6"
+        android:pathData="M38,42 m-4,0 a4,4 0 1,0 8,0 a4,4 0 1,0 -8,0" />
+</vector>

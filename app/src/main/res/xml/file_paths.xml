@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <!-- Recorded pitches land in the app cache and are deleted after upload. -->
+    <cache-path name="pitch_videos" path="pitches/" />
+</paths>
